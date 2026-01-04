@@ -1,0 +1,6 @@
+p, alice, /api/data, get
+p, bob, /api/data, write
+p, admin, /api/admin, get
+p, admin, /api/admin, write
+
+g, alice, admin
